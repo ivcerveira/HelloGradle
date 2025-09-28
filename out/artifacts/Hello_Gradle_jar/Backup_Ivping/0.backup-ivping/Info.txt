@@ -1,0 +1,31 @@
+Passo a passo para usar o aplicativo:
+1 - Baixar o Java separado, descompactar e colocar na mesma pasta da aplicação ("Ivping").
+2 - A pasta "Ivping" pode ficar em qualquer local da sua máquina, por exemplo: "C:\Users\tc59\AppData\Local\Microsoft\WindowsApps\Ivping".
+3 - Clicar 2 vezes no arquivo "Make_Shortcut.vbs" para criar um atalho na área de trabalho.
+
+Para atualizar o arquivo "devices.xlsx":
+- Acessar o SIGMON (não usar o navegador EDGE)
+  https://sigmon/std/cgi-bin/home.cgi
+- Ir para:
+  Admin - Network - Hosts - Consulta Geral
+- Clicar no botão "Enviar"
+  (aguardar - pode demorar alguns minutos)
+- Clicar no botão "Excel" para exportar para o excel
+- Será criado o arquivo "SIGMON.xlsx" na pasta "Downloads"
+
+- Deletar as colunas não utilizadas. Deixar somente as colunas: Host, IP e Location
+
+- Deletar todas as linhas que não são de interesse (PA's, todas que tem IP: 127.0.0.1 etc)
+
+- Renomear o arquivo "SIGMON.xlsx" para "devices.xlsx"
+- Mover o arquivo "devices.xlsx" para a pasta do aplicativo substituindo o arquivo existente
+
+obs.: eliminar as linhas nas quais as células estejam no formato "número"
+	ou formatar todas as células como "Geral"
+
+
+URL do Java bellsoft:
+https://bell-sw.com/pages/downloads/#jdk-21-lts
+- Usar sempre a versão Full
+
+
