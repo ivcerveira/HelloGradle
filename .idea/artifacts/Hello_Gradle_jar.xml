@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hello Gradle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hello_Gradle_jar</output-path>
+    <root id="archive" name="Hello Gradle.jar">
+      <element id="module-output" name="Hello Gradle" />
+    </root>
+  </artifact>
+</component>
