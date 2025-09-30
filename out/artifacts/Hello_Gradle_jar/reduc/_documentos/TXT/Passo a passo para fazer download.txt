@@ -1,0 +1,36 @@
+Passo a passo para fazer download da base de dados do SIGMON:
+
+https://sigmon/std/cgi-bin/home.cgi
+
+Admin - Network - Hosts - Consulta Geral
+
+Exportar para Excel
+Deletar APs (127.0.0.1)
+
+Deletar colunas não utilizadas
+- substituir linhas em branco do campo "Location" por "--" (sem aspas)
+
+Com o arquivo aberto, clique na planilha Ex01.
+Selecione o intervalo B3:O17
+Clique na guia Página Inicial → grupo Edição → Localizar e Selecionar → Ir para Especial.
+Marque a opção Em branco e clique em Ok. As células vazias foram selecionadas.
+Digite zero e pressione Ctrl+Enter.
+
+Total: 11.059
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
