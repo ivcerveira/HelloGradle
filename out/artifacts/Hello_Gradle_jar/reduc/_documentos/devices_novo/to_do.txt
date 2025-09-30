@@ -1,0 +1,2 @@
+- baixar arquivo completo do sigmon
+- atualizar base de dados "devices.xlsx"
