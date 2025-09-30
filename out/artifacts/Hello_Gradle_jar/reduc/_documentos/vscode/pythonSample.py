@@ -1,6 +1,0 @@
-print("------------------------------")
-print("Python has entered the building")
-print("Let the party start")
-print("------------------------------")
-print(2 ** 256)
-print(2 ** 512)

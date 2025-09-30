@@ -1,9 +1,0 @@
-# Solicitar ao usuário um número hexadecimal
-hex_number = input("Digite um número hexadecimal: ")
-
-# Converter o número hexadecimal para decimal
-try:
-    decimal_number = int(hex_number, 16)
-    print(f"O número decimal equivalente é: {decimal_number}")
-except ValueError:
-    print("Entrada inválida. Certifique-se de digitar um número hexadecimal válido.")
