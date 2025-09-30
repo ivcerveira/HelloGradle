@@ -1,0 +1,5 @@
+Vamos instalar novas máquinas de ar condicionado aqui na HUB TECAM.
+Mas antes é preciso umas intervenções no quadro elétrico. Vamos precisar desligar o Disjuntor Geral por um curto período.
+
+Vi que não tem HPA instalado nessa HUB. Ou seja, se precisar desligar o geral seria um bom momento porque ela está fora mesmo.
+Estou correto ou tem algo mais?
